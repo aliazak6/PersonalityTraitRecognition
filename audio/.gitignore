@@ -1,0 +1,4 @@
+*.npy
+*.dat
+*Results.md
+__pycache__
