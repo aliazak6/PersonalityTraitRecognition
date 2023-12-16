@@ -15,6 +15,9 @@ This file is accessed by create_training_data.ipynb. It opens the video files, d
     Same structure applies for x_val files except we used 1999 video files and excluded 1 file.
     Name of the excluded validation file:
         9uMpKla2OQM.003.mp4
+    Name of the test files::
+        RhFPotjd0hM.000.mp4
+        W3hFpfGMHs.002.mp4
 ```
     y_train.npy and y_val.npy are corresponding labels for video files. We just read annotation_*.pkl files and excluded job_interview part because we don't use that information anyway. So labels have 5995,5 and 1999,5 shapes respectively.
 
