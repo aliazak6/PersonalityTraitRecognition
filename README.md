@@ -1,6 +1,6 @@
 ## Aim:
     We tried to implement a multimodal system for personal trait prediction using ChaLearn First Impressions V2 dataset.
-    This project has done for CS559 course in Bilkent. Project paper can be accessible through 
+    This project has done for CS559 course in Bilkent. Project paper can be accessible through https://drive.google.com/file/d/1zLyX1MTRbS_fdf3Vl0lFhmexYt5nLLV6/view?usp=sharing
     for extensive information about experimental process. 
 ## Authors:
     Ali Azak - audio/visual/audiovisual_train.ipynb and audio preprocessing files
